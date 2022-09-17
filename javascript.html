@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>java script</title>
+        <link rel="stylesheet" href="javascriptcss.css">
+    </head>
+    <body id="clr">
+        <h1 class="hdg">Java script</h1>
+        <nav>
+        <ul>
+            <li class="li1">
+                <button  onclick="color1()">submit</button></li>
+             <li class="li2">
+                <button onclick="color2()">submit</button></li>
+            <li class="li3">
+                <button onclick="color3()">submit</button>
+            </li>
+         </ul>
+        </nav><br>
+         <p id="para" onmouseover="paraClr() ">now in am learning javascript </p>
+         <p class="para1" onmouseout="para1Clr()">i am searching for a good job</p>
+         <select id="city"  onchange="selectCity()">
+            <option value="city">cities</option>
+            <option value="chennai">chennai</option> 
+            <option value="coimbatoor">coimbatoor</option>   
+            <option value="bangaloor">bangaloor</option>     
+        </select>
+        <p id="slcCity"></p>
+        <input type="text" id="rnmTxt" onkeypress="keyPress()" >
+        <p id="txt" >Enter the text : </p>
+
+        <div>
+            number1:<input type="text" id="val1"></br>
+            number1:<input type="text" id="val2" style="margin-top: 10px;"></br >
+            result: <input type="text" id="result"style="margin-top: 10px;"></br>
+            <div style="margin-top: 10px;">
+             <button onclick="calculator('add')">add</button>
+             <button onclick="calculator('sub')">sub</button>
+             <button onclick="calculator('mul')">mul</button>
+             <button onclick="calculator('div')">div</button></div>
+
+        </div>
+
+         <script src="costum.js"></script>
+         </body>
+</html>
