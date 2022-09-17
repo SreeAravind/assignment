@@ -1,0 +1,135 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: white;
+    color: black;
+    padding-top: 10px;
+    min-height: 30px;
+}
+header #category{
+    float: left;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+ header #category h2{
+    margin: 0;
+ }
+header li{
+    float: left;
+    display: inline;
+    padding-left: 20px;
+}
+header  a {
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+}
+header nav{
+    float: left;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+#banner{
+    background-image: url(banner111.jpg);
+    background-repeat: no-repeat;
+    height: 250px;
+    text-align: center;
+    color: white;
+    background-size: cover;
+}
+#banner .container {
+    text-align: center;
+    padding-top: 60px;
+    font-size: 16px;
+}
+#banner .container h1{
+    font-size: 40px;
+}
+#boxes{
+    margin-top: 10px;
+    border: 90px;
+}
+#boxes .box{
+    float: left;
+    text-align: center;
+    padding: 0px 75px 0px 50px;
+    width: 250px;
+
+}
+#boxes .box img{
+    height: 50px;
+    width: 50px;
+}
+#boxes1 .container{
+    font-size: 16px;
+    text-align: center;
+}
+#boxes1 .images{
+    float: left;
+    text-align: center;
+    width: 200px;
+    padding: 0px 97px 0px 40px;
+}
+#boxes1 .images img{
+    height:200px ;
+    width: 200px;
+}
+#boxes1 .container h2{
+    text-align: left;
+}
+#brand .brand1{
+    float: left;
+}
+#brand .brand2{
+    float: left;
+    padding: 15px 100px 0px 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#brand .brand2 img{
+    height: 70px;
+    width: 70px;
+}
+#demo .container{
+    background-color: lavender;
+}
+#demo .demo1 ul{
+    float: left;
+    font-size: 16px;
+    text-decoration: none;
+}
+#demo .demo1 h2{
+    font-size: 20px;
+}
+#demo .demo1{
+    padding: 0px 50px 0px 50px;
+    margin-top: 40px;
+    float: left;
+}
+#demo .demo1 li{
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+
+
+    
+
+
+
+
