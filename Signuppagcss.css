@@ -1,0 +1,49 @@
+#page{
+    text-align: center;
+    padding: 54px 341px 0px 421px;
+}
+.page1{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+#page .container .page2{
+    
+float: left;
+text-align: left;
+}
+#page .container .page3{
+    text-align: left;
+    padding: 69px 217px 0px 0px;
+
+}
+#page.container .page3 p{
+    padding: 73px 0px 0px 0px;
+}
+#page .container li{
+    list-style: none;
+}
+#page .container .page4{
+    
+    float: left;
+    text-align: left;
+    margin-left: -119px;
+    margin-right: 125px;
+    margin-top: 13px;
+ }
+#page .container .page5{
+        float: left;
+        text-align: left;
+        margin-left: -3px;
+        margin-right: 9px;
+        margin-top: 13px;
+}
+#page .container .page7{
+    margin-top: 20px;
+    padding: 0px 280px 0px 20px;
+}
+#page .container .page8{
+    text-align: center;
+    padding: 20px 122px 0px 10px;
+}
+

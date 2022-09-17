@@ -1,0 +1,73 @@
+#login{
+    text-align: center;
+    padding: 54px 341px 0px 421px;
+}
+#login .login1 h2{
+    text-align: left;
+}
+.container .login2 input{
+    width: 295px;
+    height:25px;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    border: none;
+}
+#login .login2{
+    padding: 0px 280px 0px 0px;
+
+}
+.container .login3 input{
+    width: 295px;
+    height:25px;
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    border: none;
+}
+#login .login3{
+    padding: 20px 280px 0px 0px;
+
+}
+.container .login4 input{
+    width: 295px;
+    height:25px;
+}
+#login .login4{
+    padding: 20px 280px 0px 0px;
+
+}
+.container .login5 input{
+    width: 295px;
+    height:25px;
+}
+#login .login5{
+    padding: 20px 280px 0px 0px;
+
+}
+#login .login6 input{
+    margin: 18px 8px 0px -88px;
+}
+
+#login .login6 p{
+    float: right;
+    color: blue;
+    padding: 0px 268px 0px 10px;
+}
+#login .login7 input{
+    width: 300px;
+    height:25px;
+    color: white;
+    background-color: blue;
+    text-align: center;
+    border: none;
+}
+#login .login7{
+    padding: 20px 270px 0px 0px;
+}
+#login .container .login8{
+    text-align: center;
+    padding: 20px 279px 0px 10px;
+
+
+
